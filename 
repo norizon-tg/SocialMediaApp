@@ -1,0 +1,17 @@
+[33mcommit 85606befd89fe2962a052e3119131f7cdb1800cc[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: norizon-tg <dizonnorman543@gmail.com>
+Date:   Wed Nov 4 19:16:56 2020 +0800
+
+    Work in index.js. Set up Database & Server.
+
+[33mcommit 9e3876a9b89359005ed97f6f425caf6c9b037f49[m
+Author: norizon-tg <dizonnorman543@gmail.com>
+Date:   Wed Nov 4 18:27:07 2020 +0800
+
+    Initial commit. Initialize npm
+
+[33mcommit 1e0d569c640a10ac52010e449f4636e48ac3d62b[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: norizon-tg <dizonnorman543@gmail.com>
+Date:   Tue Nov 3 19:11:17 2020 +0800
+
+    Initial commit
